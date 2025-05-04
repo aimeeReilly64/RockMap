@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Silver Mine",
+          "mineral": "Silver"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-79.466, 46.309] 
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nickel Deposit",
+          "mineral": "Nickel"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-81.232, 46.522] 
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Fluorite Outcrop",
+          "mineral": "Fluorite"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-78.912, 45.327] 
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,14 @@
+{
+    "name": "Rockhound Map",
+    "short_name": "Rockhound",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2b2b2b",
+    "icons": [{
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }]
+  }
+  
