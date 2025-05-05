@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-79.055999, 45.763611]
+            },
+            "properties": {
+              "id": "OBSERVED_SITE_001",
+              "name": "Unnamed Outcrop Near South River",
+              "status": "Occurrence",
+              "township": "Machar",
+              "district": "Parry Sound",
+              "commodity": "Quartz, Feldspar, Mica",
+              "S_COMMOD": "",
+              "ALL_nameS": "Quartz-Feldspar-Mica Outcrop, South River Hillsite",
+              "DEP_CLASS": "Pegmatitic/Granitic Outcrop",
+              "LONGITUDE": -79.055999,
+              "LATITUDE": 45.763611,
+              "LL_DATUM": "NAD83",
+              "DETAIL": "Observed site with visible quartz, feldspar, and mica crystals. Site requires a hill climb. Located in the Grenville geological province."
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-79.082028, 45.710528]
+            },
+            "properties": {
+              "id": "OBSERVED_SITE_002",
+              "name": "Quartz-Tourmaline Outcrop Near Waterfall",
+              "status": "Occurrence",
+              "township": "Machar",
+              "district": "Parry Sound",
+              "commodity": "Quartz, Tourmaline",
+              "S_COMMOD": "",
+              "ALL_nameS": "Quartz-Tourmaline Outcrop, Waterfall Site",
+              "DEP_CLASS": "Pegmatitic/Granitic Outcrop",
+              "LONGITUDE": -79.082028,
+              "LATITUDE": 45.710528,
+              "LL_DATUM": "NAD83",
+              "DETAIL": "Observed site with visible quartz and tourmaline crystals above a fast-flowing waterfall. Located in the Grenville geological province."
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-79.075917, 45.711056]
+            },
+            "properties": {
+              "id": "OBSERVED_SITE_003",
+              "name": "Quartz-Tourmaline Outcrop Near Waterfall",
+              "status": "Occurrence",
+              "township": "Machar",
+              "district": "Parry Sound",
+              "commodity": "Quartz, Tourmaline",
+              "S_COMMOD": "",
+              "ALL_nameS": "Quartz-Tourmaline Outcrop, Waterfall Site",
+              "DEP_CLASS": "Pegmatitic/Granitic Outcrop",
+              "LONGITUDE": -79.075917,
+              "LATITUDE": 45.711056,
+              "LL_DATUM": "NAD83",
+              "DETAIL": "Observed site with visible quartz and tourmaline crystals above a fast-flowing waterfall. Located in the Grenville geological province."
+            }
+          }
+,{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.034167, 45.700278]
+    },
+    "properties": {
+      "id": "OBSERVED_SITE_005",
+      "name": "Uraninite Occurrence - Site 1",
+      "status": "Occurrence",
+      "township": "Machar",
+      "district": "Parry Sound",
+      "commodity": "Uraninite",
+      "S_COMMOD": "",
+      "ALL_nameS": "Uraninite Outcrop, Site 1",
+      "DEP_CLASS": "Pegmatitic/Granitic Outcrop",
+      "LONGITUDE": -79.034167,
+      "LATITUDE": 45.700278,
+      "LL_DATUM": "NAD83",
+      "DETAIL": "Observed site with visible uraninite crystals. Located in the Grenville geological province."
+    }
+  }
+,{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.041667, 45.695000]
+    },
+    "properties": {
+      "id": "OBSERVED_SITE_007",
+      "name": "Uraninite Occurrence – Site C",
+      "status": "Occurrence",
+      "township": "Machar",
+      "district": "Parry Sound",
+      "commodity": "Uraninite",
+      "S_COMMOD": "",
+      "ALL_nameS": "Uraninite Occurrence – Site C",
+      "DEP_CLASS": "Pegmatitic/Granitic Outcrop",
+      "LONGITUDE": -79.041667,
+      "LATITUDE": 45.695000,
+      "LL_DATUM": "NAD83",
+      "DETAIL": "Observed uraninite mineralization in pegmatitic outcrop on October 20, 2024. Located within the Grenville geological province."
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.3833, 46.1833]
+    },
+    "properties": {
+      "id": "CALLANDER_BAY_001",
+      "name": "Callander Bay Alkaline Complex",
+      "status": "Occurrence",
+      "township": "Callander",
+      "district": "Parry Sound",
+      "commodity": "Aegirine, Apatite, Barite, Biotite, Calcite, Cancrinite, Fluorite, Garnet, Magnetite, Muscovite, Nepheline, Pyrite, Pyrrhotite",
+      "S_COMMOD": "",
+      "ALL_nameS": "Callander Bay Alkaline Complex",
+      "DEP_CLASS": "Alkaline Complex",
+      "LONGITUDE": -79.3833,
+      "LATITUDE": 46.1833,
+      "LL_DATUM": "NAD83",
+      "DETAIL": "Eroded Proterozoic volcanic pipe approximately 4 km in diameter, hosting a variety of collectible minerals."
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.6858, 46.5947]
+    },
+    "properties": {
+      "id": "PRIEST_MINE_001",
+      "name": "Priest Mine",
+      "status": "Past Producer",
+      "township": "Gillies Limit",
+      "district": "Temagami",
+      "commodity": "Gold, Silver, Copper, Lead",
+      "S_COMMOD": "",
+      "ALL_nameS": "Priest Mine, Cross Lake Vein Zone",
+      "DEP_CLASS": "Quartz Vein",
+      "LONGITUDE": -79.6858,
+      "LATITUDE": 46.5947,
+      "LL_DATUM": "NAD83",
+      "DETAIL": "Historic site with an inclined shaft and multiple small pits following a quartz vein. Discovered in 1907 near Cross Lake, Ontario."
+    }
+  }
+,  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.687722, 47.310000]
+    },
+    "properties": {
+      "id": "TEM_DIAMOND_PROSPECT_001",
+      "name": "Temagami Possible Kimberlite Zone",
+      "status": "Speculative",
+      "township": "Strathy",
+      "district": "Temagami",
+      "commodity": "Possibly Diamonds",
+      "S_COMMOD": "",
+      "ALL_nameS": "Temagami Kimberlite Interest Zone",
+      "DEP_CLASS": "Possible Kimberlite",
+      "LONGITUDE": -79.687722,
+      "LATITUDE": 47.310000,
+      "LL_DATUM": "NAD83",
+      "DETAIL": "Temagami region noted for greenstone belt geology; nearby kimberlite fields have diamond potential. No confirmed pipe at this site."
+    }
+  }
+, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.690028, 47.351750]
+    },
+    "properties": {
+      "id": "TEM_GREENSTONE_001",
+      "name": "Temagami Greenstone Belt - North Outcrop",
+      "status": "Occurrence",
+      "township": "Strathy",
+      "district": "Temagami",
+      "commodity": "Greenstone, Mafic Volcanics",
+      "S_COMMOD": "",
+      "ALL_nameS": "Temagami Greenstone North Ridge",
+      "DEP_CLASS": "Volcanic Belt",
+      "LONGITUDE": -79.690028,
+      "LATITUDE": 47.351750,
+      "LL_DATUM": "NAD83",
+      "DETAIL": "Located within the Temagami Greenstone Belt. Area exhibits high mineralization potential and speculative diamond interest due to proximity to volcanic features."
+    }
+  }
+,{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.8047, 47.2541]
+    },
+    "properties": {
+      "id": "OCONNOR_MINE_001",
+      "name": "O'Connor Mine",
+      "status": "Past Producer",
+      "township": "Best",
+      "district": "Temagami",
+      "commodity": "Copper, Sulfur, Nickel, Gold, Zinc",
+      "S_COMMOD": "",
+      "ALL_nameS": "O'Connor Mine, Temagami Area",
+      "DEP_CLASS": "Volcanogenic Massive Sulfide (VMS)",
+      "LONGITUDE": -79.8047,
+      "LATITUDE": 47.2541,
+      "LL_DATUM": "NAD83",
+      "DETAIL": "Abandoned surface mine southwest of Temagami. Historical production of copper, pyrite, nickel, gold, and zinc. Likely VMS-type deposit."
+    }
+  }      
+   
+          
+    ]
+}

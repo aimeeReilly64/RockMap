@@ -64,7 +64,9 @@ if ('serviceWorker' in navigator) {
         onEachFeature: (feature, layer) => {
           const p = feature.properties;
           layer.bindPopup(`
+            
             <strong>${p.name}</strong><br/>
+            Township: ${p.township}<br/>
             Mineral: ${p.commodity}<br/>
             Status: ${p.status}<br/>
             <button onclick='logSiteVisitFromPopup("${p.name}")'>Log This Site</button>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Resident Geologist Program</name>
+	<Snippet maxLines="2"><![CDATA[<b>"Click" for more Information</b>]]></Snippet>
+	<description><![CDATA[<font face= "Arial"><font size= 4><i>Through a network of 8 offices strategically located across the province, the role of the OGS's Resident Geologist's Program is to monitor, stimulate and facilitate the sustainable development of Ontario's mineral resources by providing expert geological consultation and advisory services to promote and stimulate mineral exploration; generating and transferring new geoscientific data and ideas; maintaining and providing public access to geoscience databases and other resource materials; monitoring and reporting on mineral exploration and development activity and issues affecting the minerals sector; minerals knowledge transfer to Aboriginal communities, providing input into land use planning issues to ensure continued access to high mineral potential areas, to optimize the land base available for mineral exploration and development, and to ensure public safety; and providing and/or participating in public forums to promote Ontario's minerals industry.   <br><br><a href='https://www.infogo.gov.on.ca/org?id=1425&&_b=c2VhcmNodHlwZT0xJnNvcnRkaXI9YXNjJnNvcnRjb2w9UmFuayZ0b3Bvcmc9MCZwYWdlPTEma2V5d29yZHM9cHViJTIwc2FsZXMmc29ydGxhYmVsPXNvcnQtb3B0aW9uMCZsb2NhbGU9ZW4'>Contact Information</a>]]></description>
+	<open>1</open>
+	<LookAt>
+		<longitude>-85.17218150000001</longitude>
+				<latitude>49.512601</latitude>
+				<altitude>0</altitude>
+				<range>1700000</range>
+				<tilt>0</tilt>
+		<heading>0</heading>
+	</LookAt>
+	
+	<NetworkLink>
+		<name>Logo</name>
+		
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Url>
+			<href>http://www.geologyontario.mndm.gov.on.ca/mines/data/google/ogsearth2/files/Logo/doc.kml</href>
+		</Url>
+	</NetworkLink>		
+	<NetworkLink>
+		<name>Resident Geologist Districts</name>
+			<Snippet maxLines="2"><![CDATA[<b>"Click" for more information</b>]]></Snippet>
+			<description><![CDATA[<font face= "Arial"><font size= 4><i> Through a network of 8 offices strategically located across the province, the Ontario Geological Survey's Resident Geologist's Program provides expert geoscience consultation and advisory services to the, minerals industry, Aboriginal communities, municipalities and the public.The program provides geoscience information that supports investment decisions related to mineral explorations and development,and assists environmental and land use planning processes. Our geological staff have extensive collections of geological information. They monitor mineral exploration activity,track trends, gather and generate new information on mineral occurences and deposits, and make recommendations of exploration.<br><br><a href="https://www.infogo.gov.on.ca/org?id=1425&&_b=c2VhcmNodHlwZT0xJnNvcnRkaXI9YXNjJnNvcnRjb2w9UmFuayZ0b3Bvcmc9MCZwYWdlPTEma2V5d29yZHM9cHViJTIwc2FsZXMmc29ydGxhYmVsPXNvcnQtb3B0aW9uMCZsb2NhbGU9ZW4">Contact Information</a>]]></description>
+			<visibility>1</visibility>
+			<Style>
+				<ListStyle>
+					<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+				</ListStyle>
+			</Style>
+			<Url>
+				<href>http://www.geologyontario.mndm.gov.on.ca/mines/data/google/MDI/files/RGD.kmz</href>
+				<refreshMode>onExpire</refreshMode>
+			</Url>
+	</NetworkLink>
+			
+<NetworkLink>
+	<name>Ontario Mineral Inventory (OMI)</name>
+	<open>1</open>
+	<Snippet maxLines="2"><![CDATA[<b>Product Information and GIS Download</b>]]></Snippet>
+	<description><![CDATA[<font face= "Arial"><font size= 4><i>For information on a particular OMI record, simply click on the OMI point of interest.<br><br><b>Ontario Mineral Inventory<br>Published May 2<sup>nd</sup> 2025<br><br></b>  
+The Ministry of Mines is releasing an updated version of the Ontario Mineral Inventory (OMI) (<b>previously known as the Mineral Deposit Inventory or MDI database</b>). This database is an inventory of mineral occurrences in the province of Ontario and supersedes previous OMI releases. Originally compiled in the early 1970s by the Resident Geologist Program (RGP), the database is continually being reviewed and updated by RGP staff.<br><br>
+Each OMI record provides all or some of the following information: occurrence name(s), location, status (e.g., occurrence, prospect, producer, past producer), commodities, character/classification, geological structure, lithology, minerals and mineral alteration, geochemistry, exploration history, and production and reserve/resource data where available. Also included are notes on deposit visits and references to additional publications related to the deposit.<br><br>
+OMI data are provided in 2 formats in this release: 1) a relational database, and 2) OMI provincial coverage in a geospatial GIS (ESRI® shape file) format. The complete OMI relational database is provided in Microsoft® Access® 2010 (.mdb) format. For the geospatial data, basic mineral occurrence information (OMI number, commodities and property status) is provided. Geospatial data are provided in North American Datum 1983 (NAD83) geographic co-ordinate system using Geodetic Reference System 1980 (GRS80).
+
+<br><br><a href='https://www.hub.geologyontario.mines.gov.on.ca/'>Go to Geology Ontario to query or download the database</a>]]></description>
+	<Style> 
+		<ListStyle>
+			<listItemType>check</listItemType>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>2</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Url>
+		<href>http://www.geologyontario.mndm.gov.on.ca/mines/data/google/MDI/files/MDI.kml</href>
+		<refreshMode>onExpire</refreshMode>
+	</Url>
+</NetworkLink>
+		</Folder>
+</kml>
